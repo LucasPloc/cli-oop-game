@@ -1,0 +1,15 @@
+{
+  "name": "js-game",
+  "version": "1.0.0",
+  "description": "vanilla js game",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.0"
+  }
+}
